@@ -1,5 +1,6 @@
 <template>
   <div class="flex flex-col h-full bg-black">
+    <Navbar />
     <div class="fixed inset-0 flex justify-center overflow-x-hidden sm:px-8 customScrollbar">
       <div class="flex justify-center w-full max-w-7xl lg:px-8">
         <div class="flex justify-center w-full h-fit">

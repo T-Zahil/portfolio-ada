@@ -14,6 +14,14 @@
   </div>
 </template>
 
+<script setup>
+import { inject } from '@vercel/analytics'
+
+onMounted(() => {
+  inject()
+})
+</script>
+
 <style>
 html {
   @apply bg-black;

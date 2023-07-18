@@ -7,20 +7,13 @@
           <div
             class="flex flex-col justify-between w-full h-full pt-24 mx-4 my-12 ring-2 bg-zinc-900 ring-zinc-300/20 rounded-xl customSize">
             <NuxtPage />
+            <Footer />
           </div>
         </div>
       </div>
     </div>
   </div>
 </template>
-
-<script setup>
-import { inject } from '@vercel/analytics'
-
-onMounted(() => {
-  inject()
-})
-</script>
 
 <style>
 html {

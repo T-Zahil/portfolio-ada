@@ -8,12 +8,35 @@
           </div>
         </div>
         <div class="lg:order-first lg:row-span-2">
-          <h1 class="text-zinc-100 text-4xl sm:text-5xl font-bold">
+          <h1 class="text-4xl font-bold tracking-tight text-zinc-100 sm:text-5xl">
             I’m Thomas Sanlis.
             I'm bored so I build things.
           </h1>
-          <div class="space-y-7 text-zinc-400 mt-6 text-base">
-            <p>coucou</p>
+          <div class="mt-6 text-base space-y-7 text-zinc-400">
+            <p>
+              Hey there! It's Thomas here. I'm a web developer and designer who loves creating beautuseful websites.
+              I live in Nantes, a fabulous French city in which everyone is nice. Yes, including me.
+            </p>
+            <p>
+              In addition to my freelance work, I am also an instructor at Ada tech school. I have a great time teaching
+              and am grateful for the opportunity to work with such nice and motivated students.
+            </p>
+            <p>
+              I believe that anything is possible if you trust yourself and
+              your abilities.
+            </p>
+            <p>
+              When I'm not working, you can find me cooking up a storm in the kitchen or hitting the badminton court or
+              going for a bike ride. I enjoy staying active and trying new things.
+            </p>
+            <p>
+              If you wanna do a badminton game, a bike ride or a great project on the internet, send me a little
+              something!
+            </p>
+
+            <p>
+              Toto
+            </p>
           </div>
         </div>
         <div class="lg:pl-20">
